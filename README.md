@@ -1,4 +1,4 @@
-# Blocklist_Pi_Hole
+# Blocklist Pi Hole
 
 
 <p dir="auto">In this repository you will find my custom blocklists for the PiHole service (Pi-hole is an application for blocking ads and trackers on the Internet that acts as a DNS sink). You can even use them in similar services, AdGuard, Ublock...
