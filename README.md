@@ -47,6 +47,12 @@
 <td align="center">1,012</td>
 <td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/master/Windows%20telemetry.txt" rel="nofollow">list</a></td>
 </tr>
+<tr>
+<td align="center">Iran TLD and websites that host inside the IRAN</td>
+<td align="center">Block all inside Iran hosted websites (mostly IR TLD)</td>
+<td align="center">28,010</td>
+<td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/master/IR-domains.txt" rel="nofollow">list</a></td>
+</tr>
 </tbody>
 </table>
 <br>
