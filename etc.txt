@@ -1,0 +1,17 @@
+pagead2.googlesyndication.com
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+ads.facebook.com
+ads-api.twitter.com
+ads.pinterest.com
+ads.reddit.com
+ads.youtube.com
+ads.tiktok.com
