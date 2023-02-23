@@ -55,8 +55,8 @@
 </tr>
 <tr>
 <td align="center">Some ad domain that were missing from https://d3ward.github.io/toolz/adblock test</td>
-<td align="center">From Google Ads Doubleclick.net Amazon Facebook Twitter Pinterest Reddit YouTube TikTok</td>
-<td align="center">17</td>
+<td align="center">Block the remaining ad services of Google Ads Doubleclick.net Amazon FreshMarketer Bugsnag Sentry Facebook Twitter Pinterest Reddit YouTube TikTok Yandex Xiaomi Huawei OnePlus Samsung Apple</td>
+<td align="center">36</td>
 <td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/master/etc.txt" rel="nofollow">list</a></td>
 </tr>
 </tbody>
