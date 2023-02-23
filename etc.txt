@@ -1,17 +1,26 @@
+# Google Ads
 pagead2.googlesyndication.com
-doubleclick.net/
-ad.doubleclick.net/
+# Doubleclick.net
+doubleclick.net
+ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
+# Amazon
 analyticsengine.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
+# Facebook
 ads.facebook.com
+# Twitter
 ads-api.twitter.com
+# Pinterest
 ads.pinterest.com
+# Reddit
 ads.reddit.com
+# YouTube
 ads.youtube.com
+# TikTok
 ads.tiktok.com
