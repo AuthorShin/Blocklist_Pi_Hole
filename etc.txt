@@ -12,15 +12,43 @@ affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
+# FreshMarketer
+freshmarketer.com
+# Bugsnag
+api.bugsnag.com
+app.bugsnag.com
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
 # Facebook
 ads.facebook.com
 # Twitter
 ads-api.twitter.com
 # Pinterest
 ads.pinterest.com
+widgets.pinterest.com
 # Reddit
 ads.reddit.com
 # YouTube
 ads.youtube.com
 # TikTok
 ads.tiktok.com
+# Yandex
+appmetrica.yandex.com
+# Xiaomi
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+# Huawei
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
+# OnePlus
+click.oneplus.cn
+# Samsung
+analytics-api.samsunghealthcn.com
+# Apple
+supportmetrics.apple.com
