@@ -75,16 +75,20 @@ rfetch.yektanet.net
 audience-scripts.yektanet.com
 www.yektanet.com
 analyt.ir
-(\.|^)analyt\.ir$
 native-scripts.yektanet.com
 analytics-2.aasaam.com
 analytics-1.aasaam.com
 cookie.najva.com
 cr.najva.com
 dm.arvanvod.com
-(\.|^)arvanvod\.com$
-(\.|^)arvanvod\.ir$
 ads.baadesaba.ir
+api.intrack.ir
+ikepler.ir
+log.ikepler.ir
+panel.adexo.ir
+adexo.ir
+metrix.ir
+cdn.metrix.ir
 # Others
 wsdk-files.ir0.webengage.com
 app.adtrace.io
@@ -95,3 +99,4 @@ adcs.rqmob.com
 reports.crashlytics.com
 ir-odc.samsungapps.com
 dt.beyla.site
+mediacdn.mediaad.org
