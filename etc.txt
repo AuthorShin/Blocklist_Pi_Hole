@@ -100,3 +100,4 @@ reports.crashlytics.com
 ir-odc.samsungapps.com
 dt.beyla.site
 mediacdn.mediaad.org
+yastatic.net
