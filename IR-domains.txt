@@ -28160,6 +28160,7 @@ surfaceiran.com
 torob.com
 api.torob.com
 didnegar.com
+www.didnegar.com
 # Iranlms (shad) subdomains
 shadmessenger1.iranlms.ir
 iranlms.ir
