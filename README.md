@@ -63,7 +63,7 @@
 <td align="center">DoT & DoH & traditional DNS servers</td>
 <td align="center">Block DoT, DoH & traditional DNS servers to prevent bypassing pihole</td>
 <td align="center">95</td>
-<td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/master/DoT&DoH&traditional_DNS_servers.txt" rel="nofollow">list</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/main/DoT_DoH_traditional_DNS_servers.txt" rel="nofollow">list</a></td>
 </tr>
 </tbody>
 </table>
