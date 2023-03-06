@@ -54,6 +54,7 @@ analytics-api.samsunghealthcn.com
 supportmetrics.apple.com
 gs-loc.ls-apple.com.akadns.net
 buy.itunes-apple.com.akadns.net
+musicstatus-eu.edge-itunes-apple.com.akadns.net
 # Some Iranian ad and tracking websites
 ck.yektanet.com
 tasvir.yektanet.com
