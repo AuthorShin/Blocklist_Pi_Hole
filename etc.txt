@@ -53,6 +53,7 @@ analytics-api.samsunghealthcn.com
 # Apple
 supportmetrics.apple.com
 gs-loc.ls-apple.com.akadns.net
+buy.itunes-apple.com.akadns.net
 # Some Iranian ad and tracking websites
 ck.yektanet.com
 tasvir.yektanet.com
