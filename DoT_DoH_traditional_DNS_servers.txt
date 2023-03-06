@@ -6,7 +6,7 @@
 ## Last update : 15 June 2020
 ## Domain count : 132
 ===================================================================
-
+*.dismail.de
 # Aaflalo
 dns.aaflalo.me
 dns-nyc.aaflalo.me
@@ -256,3 +256,7 @@ rumpelsepp.org
 ordns.he.net
 rdns.faelix.net
 adfree.usableprivacy.net
+
+
+*.seby.io
+*.censurfridns.dk
