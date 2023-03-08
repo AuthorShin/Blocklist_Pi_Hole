@@ -629,7 +629,6 @@ dns.t53.de
 snopyta.org
 alekberg.net
 blitz.ahadns.com
-cname.vercel-dns.com
 acsegateway.fe.apple-dns.net
 www.jcdns.fun
 dns.nixnet.xyz
