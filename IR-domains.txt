@@ -28161,6 +28161,9 @@ torob.com
 api.torob.com
 didnegar.com
 www.didnegar.com
+parsget.com
+panel.parsget.com
+
 # Iranlms (shad) subdomains
 shadmessenger1.iranlms.ir
 iranlms.ir
