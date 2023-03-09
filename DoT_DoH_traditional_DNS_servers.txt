@@ -629,10 +629,5 @@ dns.t53.de
 snopyta.org
 alekberg.net
 blitz.ahadns.com
-# acsegateway.fe.apple-dns.net
 www.jcdns.fun
 dns.nixnet.xyz
-geo-applefinance-cache.internal.query.g03.yahoodns.net
-# gateway.fe.apple-dns.net
-probe.me.apple-dns.net
-fmipmobile.fe.apple-dns.net
