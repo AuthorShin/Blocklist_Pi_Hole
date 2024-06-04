@@ -44,7 +44,7 @@
 <tr>
 <td align="center">Windows telemetry</td>
 <td align="center">Block all Windows OS telemetry</td>
-<td align="center">1,012</td>
+<td align="center">1,010</td>
 <td align="center"><a href="https://raw.githubusercontent.com/AuthorShin/Blocklist_Pi_Hole/master/Windows%20telemetry.txt" rel="nofollow">list</a></td>
 </tr>
 <tr>
