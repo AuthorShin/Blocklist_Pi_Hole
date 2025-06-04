@@ -914,7 +914,7 @@ telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
 tile-service.weather.microsoft.com
-time.windows.com
+#time.windows.com //https://github.com/AuthorShin/Blocklist_Pi_Hole/issues/1
 tk2.plt.msn.com
 travel.tile.appex.bing.com
 treasuredata.com
